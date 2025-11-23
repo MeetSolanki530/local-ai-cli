@@ -1,0 +1,7 @@
+fastapi
+langchain
+langchain-community
+langchain-core
+uvicorn
+rich
+openai
